@@ -1,0 +1,13 @@
+name = "Chickenhead"
+author = "Hri7566"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ebdfaae142a22267c870734cd818c6dcc021a0fbfd5d6a54a3f99914ab05f71a"
+
+[versions]
+fabric = "0.15.6"
+minecraft = "1.20.4"

@@ -1,0 +1,221 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "4209b7c1f768202b2f70ec5ab499b26ae9d4e73cf1e855099fe5fb23db0512e5"
+metafile = true
+
+[[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "2cd496ff4d50af05949b7dae033a996edcc1c2d3bdb71bebd74c662dd1174aa9"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "e256b55ec94408fd32ba3963fb21cd54718a087134ed24ea2c4c660f25bae977"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "5d790c79d579bbebbc3cb5c9656cd1b3b361a18b364492821585a42ee07f652c"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "7d3b0183e9e2f58cacbd4cd348c02219033539502094e45ac13f392f1ebfda3e"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "9e3b036b581d2002b21a48d757dbba2f48d7404b12880b0ff0d78e573c756cfb"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "3c1b4abc7db9ac2c5cdc8c424ba51c26d192dc8560b4d11218861772cd1f5f8a"
+metafile = true
+
+[[files]]
+file = "mods/cat_jam.pw.toml"
+hash = "ea754cf20adb758fd52e23a53d6ada63a0f54351e8794f61ea935856982eccb9"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "1f071cc75fb7052ddd387aabb4a308ae1590ac60d896f6f2286727834d008d9b"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "3663f500ee6a13cc7716b0f6fd08fa78e427b488654dda4162f48c0cca2ea6d7"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "b2f4e2523eaaae08dbe4a92c0b03750693b761d758144fbcf840b7a54b22de0d"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "7169f560465ba70f204d3c4189cf3d1faef8ae6cf3dc063733a4d53f612a4d94"
+metafile = true
+
+[[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "fb9771386e9a1f956568a9d1bab1c9332d7191d8d27f1a966d071fdbdef1a6c4"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "c3cb47e29a8fc0353ee6c3178ca25f1b956a6ca4bb02fa23b0ed3ff3d1065e7f"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "d398662ae6e9d87e89384ba50a9787dbeb9425902a18b0cd8239efd0b966b453"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "b61b0ccdc8328d637c0f57cbb25258491b94ae03c89c4194ad6ca8b86579dd28"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "669008dbd2508a67f8c409096cf2357de450f26a69494289e5852045ade7d358"
+metafile = true
+
+[[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "c00924e016305d8eb730d947d743749d39a71c37c1f92413bbdd0665134db41d"
+metafile = true
+
+[[files]]
+file = "mods/reborncore.pw.toml"
+hash = "fa235c58e2c2d3509a6f059240e2f4ce91d86acec018149cc06e888d9bab9ff5"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "fad1ecdab969cd8c3f9acd9b4be802c4ad636720657239650da1d72d78df8ded"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "975478c93b1218131fd48695cd7efb9bbe0d69125409940b015a7058e42fb6be"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "ae3cea8fecbfabd30990ed57eb6b6a9a3e6e8337829b4aa795689c7ccbb12574"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "ce4f703da2a174b4d6cdfe56c445e27b8afc4ae0ca3c9d6645b0f2323a9fa28b"
+metafile = true
+
+[[files]]
+file = "mods/smooth-scrolling-refurbished.pw.toml"
+hash = "9d4cfd8778ec45978499542b186a289e9c84bca35d0eee0d851799681c670387"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
+metafile = true
+
+[[files]]
+file = "mods/star-wars-planets-ad-astra.pw.toml"
+hash = "35e365c25335d915fb705b0fae3c491afc174c7c331aeda36e9262e71ba1ce46"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "18ee61062b3f43fd026ee620bb2de6073de791132c5067d262bd424628bed4a5"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "f17a3b340c9e1535dce9a81a2f6d4a069dfd3defdcbbc6eb005bb6494a900c02"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "42a9a2c0702f811c8c5427f588905c3ed3f047380d02ee17108c31b87760762d"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.pw.toml"
+hash = "e67aa4b113e02314f2bf4eb46a367ee267503e5d723c3e16f5f0f2e7e4bf576b"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "c34d19bc94ba7a7fe25727f387f64c6365182f3706d8d313c2d54119bb8b26d6"
+metafile = true
+
+[[files]]
+file = "mods/worldedit-cui.pw.toml"
+hash = "68557e8b0cd7bdf1015c3760d70841a876284d7f83b36bfea022a8612e8a393a"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "6fea2f9bac56a998ca70374c89e788a7d5d78d0b59311f4fadb09ec91af99212"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "c6374b029408c864318be26f5e6854e1fd4c70222f0dacc4a4d8c1eadc364369"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "0e64714c116db266b1c35b0fea980d0ad75ddee7639d13f89d5cedf6c7e336e7"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "7005e926a32cfe6e1191ea0da9f65635e28f9dec4d827044c43da622697ba9c2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/borderless-glass.pw.toml"
+hash = "f672da4b027de9131b2b64cfab5c17c0dc23ffc077a78c7d1a313e1d72e6199c"
+metafile = true

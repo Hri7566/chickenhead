@@ -1,0 +1,13 @@
+name = "Botarium"
+filename = "botarium-fabric-1.20.4-3.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0b03a428848b546856eab2d4c7a7a092b277a28c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5066902
+project-id = 704113
