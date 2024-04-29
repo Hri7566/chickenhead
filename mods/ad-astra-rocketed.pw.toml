@@ -1,0 +1,13 @@
+name = "Ad Astra: Rocketed"
+filename = "ad_astra_rocketed-fabric-1.20.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iBCLOcBl/versions/BYs1fi4E/ad_astra_rocketed-fabric-1.20.1-1.0.3.jar"
+hash-format = "sha1"
+hash = "96ccd2f32b86b23bd154696630a7509ca71b65e0"
+
+[update]
+[update.modrinth]
+mod-id = "iBCLOcBl"
+version = "BYs1fi4E"
