@@ -1,0 +1,13 @@
+name = "Big Beautiful Buttons"
+filename = "BigBeautifulButtons-fabric-1.20.4-1.8.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lUPRlJLb/versions/X3CoX4pw/BigBeautifulButtons-fabric-1.20.4-1.8.0.jar"
+hash-format = "sha1"
+hash = "c086ec96503aca7732555f22fb85d6eee292d564"
+
+[update]
+[update.modrinth]
+mod-id = "lUPRlJLb"
+version = "X3CoX4pw"
