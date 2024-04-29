@@ -111,11 +111,6 @@ hash = "aa0066711dcf70aa13538a97130cf7078092f1abf9a543a13bd9168b88b7eab2"
 metafile = true
 
 [[files]]
-file = "mods/eureka.pw.toml"
-hash = "6c65cd9854ca0811c41d8877eeddd2ae6a42a273bea633b2bf3e9938a04dc7a7"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "07e0e6a791f94db3ff245a16ba014936e35410fe0ee9aba9cbac2deee25f5a70"
 metafile = true
@@ -328,11 +323,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "9b42989d1485831cb2c269c9fe6118b6dfc80397e050b3e79cfeca4e1d626b45"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "acc29f4d30641c8138744b8c15cad479e17c601567de64b19ddb82aff37b3ad1"
 metafile = true
 
 [[files]]
