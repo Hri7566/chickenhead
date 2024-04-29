@@ -226,11 +226,6 @@ hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
-file = "mods/methane.pw.toml"
-hash = "cf7df0b74867a79d1588fd9dcdae281b0357820622106a05166ae93d924222b7"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "f334786b4fa5a2cb0a6a952fa2a6ab74de3395c2be806045ea3a5905edd75363"
 metafile = true
