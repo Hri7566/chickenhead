@@ -111,6 +111,11 @@ hash = "aa0066711dcf70aa13538a97130cf7078092f1abf9a543a13bd9168b88b7eab2"
 metafile = true
 
 [[files]]
+file = "mods/eureka.pw.toml"
+hash = "6c65cd9854ca0811c41d8877eeddd2ae6a42a273bea633b2bf3e9938a04dc7a7"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "07e0e6a791f94db3ff245a16ba014936e35410fe0ee9aba9cbac2deee25f5a70"
 metafile = true
@@ -173,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "d398662ae6e9d87e89384ba50a9787dbeb9425902a18b0cd8239efd0b966b453"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "037f6b72bde7b586901f261820197efb52a369cdad3557eeaaa7a3f8e9c19799"
 metafile = true
 
 [[files]]
@@ -256,8 +266,23 @@ hash = "9d4cfd8778ec45978499542b186a289e9c84bca35d0eee0d851799681c670387"
 metafile = true
 
 [[files]]
+file = "mods/smooth-swapping-1.20.4-port.pw.toml"
+hash = "908f8a61a46f844697ac6d500b230ec61143ea195b02202d45d29fedb4b4378a"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
+metafile = true
+
+[[files]]
+file = "mods/sonic-boom.pw.toml"
+hash = "4864e07616cf150a4fdc3d3e851c1cec3f2059023ec2bd7135c26e403b164052"
+metafile = true
+
+[[files]]
+file = "mods/soothing-button.pw.toml"
+hash = "e2b450dc1d442aef00c62f1ef05f32e74c34586bd7bcdde798688b9d26bf679e"
 metafile = true
 
 [[files]]
@@ -298,6 +323,16 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "3200794bd60930c107145b4b89eda6a56473ca6f8e9b18462cd62713a2a688c8"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "9b42989d1485831cb2c269c9fe6118b6dfc80397e050b3e79cfeca4e1d626b45"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "acc29f4d30641c8138744b8c15cad479e17c601567de64b19ddb82aff37b3ad1"
 metafile = true
 
 [[files]]
@@ -383,4 +418,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/borderless-glass.pw.toml"
 hash = "f672da4b027de9131b2b64cfab5c17c0dc23ffc077a78c7d1a313e1d72e6199c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/catppuccin-ui.pw.toml"
+hash = "94dcc4a21ef4d01dc4e98168cfcd8c12f2da64ce48e5ae8f81dddea3a5648824"
 metafile = true

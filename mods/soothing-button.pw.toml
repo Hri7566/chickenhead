@@ -1,0 +1,13 @@
+name = "Soothing Button"
+filename = "Soothing Button-0.3 (1.20.4).jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tYtnyqL1/versions/aXbh2QnM/Soothing%20Button-0.3%20%281.20.4%29.jar"
+hash-format = "sha1"
+hash = "461003fc7f436854f605be60256a5b24545590fa"
+
+[update]
+[update.modrinth]
+mod-id = "tYtnyqL1"
+version = "aXbh2QnM"
