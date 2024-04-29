@@ -91,6 +91,16 @@ hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
 metafile = true
 
 [[files]]
+file = "mods/diagonal-windows.pw.toml"
+hash = "16aa9af176b60347a96916acb40e2b2d98c6f9bd4df2dd256e4605772499f59f"
+metafile = true
+
+[[files]]
+file = "mods/duckling.pw.toml"
+hash = "df8d6dd5a9f55f4c93990eb8c41935dd620fe54d91a71d653a0f657a7ecce308"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ee965d6f2e0a9cdc31139b0d8a3367eb8db031065a03142534652573626e9787"
 metafile = true
@@ -103,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "48b9e762a379ac211a95e9a8f181ce52795251610715c448e50f630ad89fe577"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-weather.pw.toml"
+hash = "c969c26e6a963d5bdc67dfea18e16a99f9ca439a40919e80b1453661d28552b8"
 metafile = true
 
 [[files]]
@@ -131,8 +146,23 @@ hash = "d1e32ea50e119b059ffe57b2785625679cf04641dfa2d7189197f09eb63aa7f7"
 metafile = true
 
 [[files]]
+file = "mods/frog-petting.pw.toml"
+hash = "4063f7d36849c040bbb797a65819690273d247c61e662772393653ce6615ed81"
+metafile = true
+
+[[files]]
+file = "mods/froglegs.pw.toml"
+hash = "ecc5355d8a6cfbe7af13ed8fe684b511169d98127627c35fddecb7e8a01ab463"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "3e7023046cad2b1173ccff2d8cda898334bf58f563b4e017760ccf36bfe06344"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "181b258a0e00b0d27e657d7618d2b4ef739227c6a37a6497f5618940ac30abb7"
 metafile = true
 
 [[files]]
@@ -196,6 +226,11 @@ hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
+file = "mods/methane.pw.toml"
+hash = "cf7df0b74867a79d1588fd9dcdae281b0357820622106a05166ae93d924222b7"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "f334786b4fa5a2cb0a6a952fa2a6ab74de3395c2be806045ea3a5905edd75363"
 metafile = true
@@ -211,6 +246,11 @@ hash = "00e0b1c8ea87947a02358597a358fc24e542086ad8cd03b885e51a71fe189b66"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "7c647f3090c57732c32306de0a080ea190ec6562af5dbc2be3e7a9d4cadc8b7c"
+metafile = true
+
+[[files]]
 file = "mods/philips-ruins.pw.toml"
 hash = "03ec419c5d5be2f48a559ba790dea9466bbfe08c914cc90794cfcaa0dd1a72b5"
 metafile = true
@@ -223,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "26b2641b6b339c708e52cf4125a6223af8c826a47a4dc865fa405471fa12c44c"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "12c916c2e23ba79a799005345c0545c8e4057b987e5b6ef527b2c6e95a118a41"
 metafile = true
 
 [[files]]
@@ -328,6 +373,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "0af9c387516d677e414c99d95eab7cde46e899395316f50b6ff80da966e4143b"
+metafile = true
+
+[[files]]
+file = "mods/wearthat.pw.toml"
+hash = "3444df423ca287ea5b4be65d8696454ae410e030e918174d7102c22c9f29d25b"
 metafile = true
 
 [[files]]

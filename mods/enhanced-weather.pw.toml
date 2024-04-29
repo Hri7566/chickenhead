@@ -1,0 +1,13 @@
+name = "Enhanced Weather"
+filename = "enhancedweather-1.1-Alpha2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NDrgrF35/versions/a1JmHe80/enhancedweather-1.1-Alpha2.jar"
+hash-format = "sha1"
+hash = "ab74b7f41a7dfdbc00e49ba8f9276f8cb2723a03"
+
+[update]
+[update.modrinth]
+mod-id = "NDrgrF35"
+version = "a1JmHe80"
