@@ -51,6 +51,11 @@ hash = "a5bb416917bf1bdadae7ac71976e0cb1326fcbcf6f27fdf363728f4ef4e4fa00"
 metafile = true
 
 [[files]]
+file = "mods/argonauts.pw.toml"
+hash = "e5ca6ece0c5614bda42171200daaa9b3005f55471e0f4cbc43caa1d9129e5ea8"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "36eff4e6316ffeb02187083c7d9b56ea81e1c12040bd232e8d45c3f72f4b2e1e"
 metafile = true
@@ -236,6 +241,11 @@ hash = "2ac5b226df0c37f71e77c8b960263fea74e57732707fd439c75366ad3aa80aa3"
 metafile = true
 
 [[files]]
+file = "mods/explorify.pw.toml"
+hash = "930f3c6ba869160e03c602b88bdb07cc1e994f8dab353f8df084c076219d701c"
+metafile = true
+
+[[files]]
 file = "mods/explosive-enhancement.pw.toml"
 hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
 metafile = true
@@ -313,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "5ced7018dfc37d708c019789aee53cfc54c4a9b31139557871627176182caf93"
+metafile = true
+
+[[files]]
+file = "mods/immersiveportals.pw.toml"
+hash = "f1eda9b361fe9da79f0924bcd73a6e823c35ec9e349c95ee2d6cdf4ef3306fbd"
 metafile = true
 
 [[files]]
@@ -396,6 +411,11 @@ hash = "bd6d19a7233f79f0dc0330f68e20a9e2cc2baeb6c7d0f0a54f97d95a7c2020f7"
 metafile = true
 
 [[files]]
+file = "mods/miniscaled.pw.toml"
+hash = "4af322ad3e6110d22054ba743bc03d8581befd1f01567a2eb83dff6c34d74c72"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6ff047f3b0e73e22bf5ad0d6751f82cd6f6a4e164a911a37839eba667fa85502"
 metafile = true
@@ -468,6 +488,11 @@ metafile = true
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "c00924e016305d8eb730d947d743749d39a71c37c1f92413bbdd0665134db41d"
+metafile = true
+
+[[files]]
+file = "mods/portal-gun.pw.toml"
+hash = "41bccf73561198619f9676c29601dd28db3a413424088f67123993db92843bba"
 metafile = true
 
 [[files]]
