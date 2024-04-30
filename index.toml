@@ -551,6 +551,11 @@ hash = "a068765346e31158bbdb601ef3a02e99182367e3d6f31250943e3934bb33d857"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "2bb3613e74cbc7f107b6e2c2d8dbefa84766b2cac0e2a9085e63a230a151d773"
+metafile = true
+
+[[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "26b2641b6b339c708e52cf4125a6223af8c826a47a4dc865fa405471fa12c44c"
 metafile = true
