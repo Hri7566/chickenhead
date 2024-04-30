@@ -1,0 +1,13 @@
+name = "Nether Portal Boom"
+filename = "NetherPortalBoom-1.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/x3OFToWw/versions/pnSzM0AF/NetherPortalBoom-1.2.jar"
+hash-format = "sha1"
+hash = "dbc25e1062c71a2101267abb6fbc9675fa90eb52"
+
+[update]
+[update.modrinth]
+mod-id = "x3OFToWw"
+version = "pnSzM0AF"

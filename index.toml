@@ -106,6 +106,11 @@ hash = "9088126a6fe08a8cf6d467717e4a30e1bc48c02f2c70cdb2b596dced5be2a30d"
 metafile = true
 
 [[files]]
+file = "mods/blaze-rod-vendor.pw.toml"
+hash = "6eb63d910b21b4619eac860a1b383c333e6fd7d3baa3cfb79cdce920ed76b71d"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "de73fb4170e000e3dcd04d1cd3c024f8364963c0ce18b47152d8682b96479904"
 metafile = true
@@ -166,6 +171,11 @@ hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
 metafile = true
 
 [[files]]
+file = "mods/crying-ghasts.pw.toml"
+hash = "28a74ac63053a71c88e6293c01df6ca381bf5f66327e2ed7a23810e3593caa2e"
+metafile = true
+
+[[files]]
 file = "mods/deeper_dark.pw.toml"
 hash = "dd7af28c89db95d20f7aba9093c9e0f71adba7000265a9c65143c0c424107bf2"
 metafile = true
@@ -176,6 +186,11 @@ hash = "16aa9af176b60347a96916acb40e2b2d98c6f9bd4df2dd256e4605772499f59f"
 metafile = true
 
 [[files]]
+file = "mods/dismount-entity.pw.toml"
+hash = "7d7f432f62eba0e9734a1ac7e4f2926536e34002709eac8a3086bf4f6694a10b"
+metafile = true
+
+[[files]]
 file = "mods/doors-closed.pw.toml"
 hash = "0474f5376819ca3bf720c064c614b479ce04702be024b7d773587b28a1b2addb"
 metafile = true
@@ -183,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/double-doors.pw.toml"
 hash = "d8ec9a504860a4cac64cc35bb7a4d18ff29ed0ac0de72072ad7229cb0af3e561"
+metafile = true
+
+[[files]]
+file = "mods/dragon-drops-elytra.pw.toml"
+hash = "fc7a6e1d341d8d3d7962fee3209de91e729a3031499bc4a7ac4f38fe8425dc54"
 metafile = true
 
 [[files]]
@@ -306,6 +326,11 @@ hash = "ccbfc0c5706850a85c4a20bd3c66b1c4bca69754055db053368a8d8e27197dc9"
 metafile = true
 
 [[files]]
+file = "mods/gravelminer.pw.toml"
+hash = "202b21bccc8f3f2bd498599e8f6ec2b72cbff5e7259cb21f8b039e30edc47878"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "c81ee7883b88cc227a285a91f0da045946797b98dd365f36788f9a6322238077"
 metafile = true
@@ -356,6 +381,11 @@ hash = "074dc3c92b31f4ee4e0e13d7a03d9e2fe66a98fd58447e49fee7c11d1c751389"
 metafile = true
 
 [[files]]
+file = "mods/just-mob-heads.pw.toml"
+hash = "675a9574a2758c868adbed9b39d0f928131b89c7f7e5b162048ccec636d9b611"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "d398662ae6e9d87e89384ba50a9787dbeb9425902a18b0cd8239efd0b966b453"
 metafile = true
@@ -368,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "2b896abd2e24cc4d2e62c2932df9968b89e95c4127a552a3523ad3406beaa395"
+metafile = true
+
+[[files]]
+file = "mods/linkart.pw.toml"
+hash = "5d60a20aa067f3d37c1213361d235939552730fda73a66ffca122996560b708f"
 metafile = true
 
 [[files]]
@@ -441,6 +476,11 @@ hash = "fa5d1cb530b29cfdb9cc98817130e3f4edc8ee5e7100275dc3ef5ee6f03200e9"
 metafile = true
 
 [[files]]
+file = "mods/npb.pw.toml"
+hash = "df0fa4036e01b287c80fb3941baaabde670276b5c4b42f65943a1c99e8a994b8"
+metafile = true
+
+[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "f27ad5ca187c5dc5bb410a21eebc10ae03e65e58ceb0e2981f5dafac350c6b07"
 metafile = true
@@ -476,6 +516,11 @@ hash = "c00924e016305d8eb730d947d743749d39a71c37c1f92413bbdd0665134db41d"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "a068765346e31158bbdb601ef3a02e99182367e3d6f31250943e3934bb33d857"
+metafile = true
+
+[[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "26b2641b6b339c708e52cf4125a6223af8c826a47a4dc865fa405471fa12c44c"
 metafile = true
@@ -488,6 +533,11 @@ metafile = true
 [[files]]
 file = "mods/reborncore.pw.toml"
 hash = "fa235c58e2c2d3509a6f059240e2f4ce91d86acec018149cc06e888d9bab9ff5"
+metafile = true
+
+[[files]]
+file = "mods/recast.pw.toml"
+hash = "e22fbfbe1cb915d9f9ad5e661014fb4dd79e611a6991329a16d469ba32a39c5a"
 metafile = true
 
 [[files]]
@@ -616,6 +666,16 @@ hash = "eaabccac9e1e51ccab7d9ee5dbac904a37fc37fa2b0ffe0edb5eab1c5ce939b5"
 metafile = true
 
 [[files]]
+file = "mods/toms-mobs.pw.toml"
+hash = "ced33414d513eeaa75a7d6aedaac8d72e62180a07d5dc8ca5c8a4ec2b5cea5ce"
+metafile = true
+
+[[files]]
+file = "mods/totw-modded.pw.toml"
+hash = "d9cb22297a6a0c136d018781d9eabc772045c90e3718803cddb7922e344fd4d6"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "9b42989d1485831cb2c269c9fe6118b6dfc80397e050b3e79cfeca4e1d626b45"
 metafile = true
@@ -653,6 +713,11 @@ metafile = true
 [[files]]
 file = "mods/wearthat.pw.toml"
 hash = "3444df423ca287ea5b4be65d8696454ae410e030e918174d7102c22c9f29d25b"
+metafile = true
+
+[[files]]
+file = "mods/where-is-it.pw.toml"
+hash = "27bdf9ca5c5dc1d9f567d9ec4475d30ad02afcc0151a277fc0a7420d7f608908"
 metafile = true
 
 [[files]]

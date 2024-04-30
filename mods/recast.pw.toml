@@ -1,0 +1,13 @@
+name = "Recast"
+filename = "recast-1.20.4-3.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/8TWzoOby/versions/l9pVexqc/recast-1.20.4-3.2.jar"
+hash-format = "sha1"
+hash = "a0071493a5a2ca27d29d4c86ec2a7aa6a77ebec6"
+
+[update]
+[update.modrinth]
+mod-id = "8TWzoOby"
+version = "l9pVexqc"

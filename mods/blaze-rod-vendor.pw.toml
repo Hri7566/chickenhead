@@ -1,0 +1,13 @@
+name = "Blaze Rod Vendor"
+filename = "blazerodvendor-1.2.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/HM4UXYcU/versions/QYy9bHnX/blazerodvendor-1.2.2.jar"
+hash-format = "sha1"
+hash = "a6648390c928f17e218cc0eb9e1d1a786938df11"
+
+[update]
+[update.modrinth]
+mod-id = "HM4UXYcU"
+version = "QYy9bHnX"
