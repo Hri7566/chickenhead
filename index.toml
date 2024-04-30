@@ -26,6 +26,11 @@ hash = "009dca989ae852763e224ec29058eeb28a137ed447b8544ebe6c25add5f4c045"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
+metafile = true
+
+[[files]]
 file = "mods/animal_feeding_trough.pw.toml"
 hash = "a0bf3e4e26c563a6b79df09c322e5a22a20ab5a2b2ae0a3263e30eacde186168"
 metafile = true
@@ -101,6 +106,11 @@ hash = "e2c268027d63e997ef750bcbc76e9ee29c775b7121a0be28a121bc4f332a7092"
 metafile = true
 
 [[files]]
+file = "mods/cameralerp.pw.toml"
+hash = "2ef2e501c45392b9f16b6d1765e0b880451504731afcac582dd3e0af22d57674"
+metafile = true
+
+[[files]]
 file = "mods/cat_jam.pw.toml"
 hash = "ea754cf20adb758fd52e23a53d6ada63a0f54351e8794f61ea935856982eccb9"
 metafile = true
@@ -113,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "d6de8fe9381427b13c6ecb2b80058b85f2cedf1d71678e9f680ffd3fa6b966ae"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
+hash = "0726f8ea6794e9a73be3f85c988183d93e6c7b632808c28c09d04ac8c507d232"
 metafile = true
 
 [[files]]
@@ -143,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/diagonal-windows.pw.toml"
 hash = "16aa9af176b60347a96916acb40e2b2d98c6f9bd4df2dd256e4605772499f59f"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "76e669f772f419df7a3e0ce38d368247a9cdba87080e5dfd9e090bcce6a77b40"
 metafile = true
 
 [[files]]
@@ -186,6 +206,11 @@ hash = "41b1561db2e39d93e5b248b610f81a963f40ea264dcf566057ae246ec50083d7"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "2ac5b226df0c37f71e77c8b960263fea74e57732707fd439c75366ad3aa80aa3"
+metafile = true
+
+[[files]]
 file = "mods/explosive-enhancement.pw.toml"
 hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
 metafile = true
@@ -208,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "cf6eb10e4876b2da57e112e92e36e452d015e62492004315cff570aeeb25bebe"
 metafile = true
 
 [[files]]
@@ -301,8 +331,28 @@ hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
 metafile = true
 
 [[files]]
+file = "mods/max-health-fix.pw.toml"
+hash = "945e4785861142eb0c9443cbd3dea6278bd7bcedeb803b486c531a70204ff14e"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols-extra.pw.toml"
+hash = "563a2484af46ebe381f606733cce8e75450dc8de141a115bb82120ddfc47d535"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "28609308d6fde8ebb88636edb8a53f6c01659ab25ed10bd9bc17589fc176d394"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "bd6d19a7233f79f0dc0330f68e20a9e2cc2baeb6c7d0f0a54f97d95a7c2020f7"
 metafile = true
 
 [[files]]
@@ -416,6 +466,16 @@ hash = "09bf4b5fc20ed7900078f886b5a73beb0d4a459ca71b1df1bff7da71efd844a2"
 metafile = true
 
 [[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "79511188bca048793fdc877fb4c1dcd60cad69a5922807c5676ddbbd14e7caad"
+metafile = true
+
+[[files]]
+file = "mods/silk.pw.toml"
+hash = "9376c1e206113df72defcc26ac46ba7e7f4bd6fa7af1840babe20ef5b3b05b4e"
+metafile = true
+
+[[files]]
 file = "mods/smooth-scrolling-refurbished.pw.toml"
 hash = "9d4cfd8778ec45978499542b186a289e9c84bca35d0eee0d851799681c670387"
 metafile = true
@@ -491,8 +551,18 @@ hash = "63986a9d44c6d8533d9f66f99637e6cc6d53d559b447c1a23dec0ad8073358f4"
 metafile = true
 
 [[files]]
+file = "mods/the-graveyard-fabric.pw.toml"
+hash = "eaabccac9e1e51ccab7d9ee5dbac904a37fc37fa2b0ffe0edb5eab1c5ce939b5"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "9b42989d1485831cb2c269c9fe6118b6dfc80397e050b3e79cfeca4e1d626b45"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "693b4bb4b6e00c94f8c000d67e834ec1c4e325a390fcd0876df2453cc66eacb2"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "CameraLerp"
+filename = "cameralerp-0.9.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PlRegEtI/versions/ahd1flod/cameralerp-0.9.0.jar"
+hash-format = "sha1"
+hash = "1e7e769e16904e2d692a46c2aee6729227c68f1c"
+
+[update]
+[update.modrinth]
+mod-id = "PlRegEtI"
+version = "ahd1flod"
