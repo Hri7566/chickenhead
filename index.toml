@@ -171,6 +171,11 @@ hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "fb656204c3eb267b4d485f33409a7b6ab2ad10164589e4838ee4175062139c01"
+metafile = true
+
+[[files]]
 file = "mods/crying-ghasts.pw.toml"
 hash = "28a74ac63053a71c88e6293c01df6ca381bf5f66327e2ed7a23810e3593caa2e"
 metafile = true
@@ -273,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "8f31f9669801ff1bd36b9e061cba9966c784117a4a81f98ec3a8ed0735bd56d3"
 metafile = true
 
 [[files]]
@@ -673,6 +683,11 @@ metafile = true
 [[files]]
 file = "mods/totw-modded.pw.toml"
 hash = "d9cb22297a6a0c136d018781d9eabc772045c90e3718803cddb7922e344fd4d6"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "8cb52af22b62f1fb608f79967dc72eccdfa9c335a9051c05509bb0a44d8c1d03"
 metafile = true
 
 [[files]]
