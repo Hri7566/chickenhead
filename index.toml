@@ -321,11 +321,6 @@ hash = "5ced7018dfc37d708c019789aee53cfc54c4a9b31139557871627176182caf93"
 metafile = true
 
 [[files]]
-file = "mods/immersiveportals.pw.toml"
-hash = "f1eda9b361fe9da79f0924bcd73a6e823c35ec9e349c95ee2d6cdf4ef3306fbd"
-metafile = true
-
-[[files]]
 file = "mods/immersivethunder.pw.toml"
 hash = "6f6291b02277ebfb6357c8f2c486b3fa4e758f5877357941c4407707a19ceef2"
 metafile = true
@@ -343,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/industrialreborn.pw.toml"
 hash = "17fd03f55a3edd12056bbd28ef3469385532274f878908ef0707248652ec8b52"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "9e7bccd0c45b66352abd6fc0b1fa2745d564deb24f5c53dd20728847cf27dda0"
 metafile = true
 
 [[files]]
@@ -398,11 +398,6 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "bd6d19a7233f79f0dc0330f68e20a9e2cc2baeb6c7d0f0a54f97d95a7c2020f7"
-metafile = true
-
-[[files]]
-file = "mods/miniscaled.pw.toml"
-hash = "4af322ad3e6110d22054ba743bc03d8581befd1f01567a2eb83dff6c34d74c72"
 metafile = true
 
 [[files]]
@@ -478,11 +473,6 @@ metafile = true
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "c00924e016305d8eb730d947d743749d39a71c37c1f92413bbdd0665134db41d"
-metafile = true
-
-[[files]]
-file = "mods/portal-gun.pw.toml"
-hash = "41bccf73561198619f9676c29601dd28db3a413424088f67123993db92843bba"
 metafile = true
 
 [[files]]
@@ -648,6 +638,11 @@ metafile = true
 [[files]]
 file = "mods/villager-type-changer.pw.toml"
 hash = "b6b936dc08100757583eed9d0a072072472e3bb9ba50ad8405ba08cf218d1325"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "d5fa0e898cb2233b7928c1b6109d041e3f0a507bdbdca6aefabbb4462044d9c6"
 metafile = true
 
 [[files]]
