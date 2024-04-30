@@ -351,11 +351,6 @@ hash = "17fd03f55a3edd12056bbd28ef3469385532274f878908ef0707248652ec8b52"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "9e7bccd0c45b66352abd6fc0b1fa2745d564deb24f5c53dd20728847cf27dda0"
-metafile = true
-
-[[files]]
 file = "mods/itemswapper.pw.toml"
 hash = "44d79f9898a7ec505034f8d2ea92364973576f9af064cabe111d2a3f1136f322"
 metafile = true
@@ -658,11 +653,6 @@ metafile = true
 [[files]]
 file = "mods/villager-type-changer.pw.toml"
 hash = "b6b936dc08100757583eed9d0a072072472e3bb9ba50ad8405ba08cf218d1325"
-metafile = true
-
-[[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "d5fa0e898cb2233b7928c1b6109d041e3f0a507bdbdca6aefabbb4462044d9c6"
 metafile = true
 
 [[files]]
