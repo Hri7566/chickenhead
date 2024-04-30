@@ -1,0 +1,13 @@
+name = "Villager Type Changer"
+filename = "villager-type-changer-1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Gr1pN1Br/versions/rzl4QQDU/villager-type-changer-1.5.jar"
+hash-format = "sha1"
+hash = "98a8aa825b81eedefff67b43c0f6951b32d3f729"
+
+[update]
+[update.modrinth]
+mod-id = "Gr1pN1Br"
+version = "rzl4QQDU"

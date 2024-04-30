@@ -1,0 +1,13 @@
+name = "Industrial Reborn"
+filename = "IndustrialReborn-1.20.4-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kwpnHlhf/versions/ZZGTZFgU/IndustrialReborn-1.20.4-0.1.1.jar"
+hash-format = "sha1"
+hash = "e13df32a9b194f2062c13f023f5e5f10315dc57e"
+
+[update]
+[update.modrinth]
+mod-id = "kwpnHlhf"
+version = "ZZGTZFgU"

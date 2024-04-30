@@ -46,6 +46,11 @@ hash = "3b3eb136a09515edaa9d3b6fba49ac2d025c1dba4a5a0d9d7fdab1e17c6bddfb"
 metafile = true
 
 [[files]]
+file = "mods/areas.pw.toml"
+hash = "a5bb416917bf1bdadae7ac71976e0cb1326fcbcf6f27fdf363728f4ef4e4fa00"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "36eff4e6316ffeb02187083c7d9b56ea81e1c12040bd232e8d45c3f72f4b2e1e"
 metafile = true
@@ -116,6 +121,11 @@ hash = "ea754cf20adb758fd52e23a53d6ada63a0f54351e8794f61ea935856982eccb9"
 metafile = true
 
 [[files]]
+file = "mods/cerulean.pw.toml"
+hash = "e18a01ca86855ec700b915aadaf73a66121cb8a37b41a018e248f5c30e688fc9"
+metafile = true
+
+[[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "fa14514ac56765f444fac9207e56c6469fabc1d92fc1c9b559645863e683a506"
 metafile = true
@@ -156,8 +166,18 @@ hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
 metafile = true
 
 [[files]]
+file = "mods/deeper_dark.pw.toml"
+hash = "dd7af28c89db95d20f7aba9093c9e0f71adba7000265a9c65143c0c424107bf2"
+metafile = true
+
+[[files]]
 file = "mods/diagonal-windows.pw.toml"
 hash = "16aa9af176b60347a96916acb40e2b2d98c6f9bd4df2dd256e4605772499f59f"
+metafile = true
+
+[[files]]
+file = "mods/doors-closed.pw.toml"
+hash = "0474f5376819ca3bf720c064c614b479ce04702be024b7d773587b28a1b2addb"
 metafile = true
 
 [[files]]
@@ -173,6 +193,16 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ee965d6f2e0a9cdc31139b0d8a3367eb8db031065a03142534652573626e9787"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "0f4d0a39eb5ba73e8cd1eecb7ec6fd2fcfca53fa537a75929b691f9e903b3394"
+metafile = true
+
+[[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "d6f3249ad3a27395ebeaa97bd4601587169f0ffa50ddefabc0538358eee8b555"
 metafile = true
 
 [[files]]
@@ -241,6 +271,11 @@ hash = "d1e32ea50e119b059ffe57b2785625679cf04641dfa2d7189197f09eb63aa7f7"
 metafile = true
 
 [[files]]
+file = "mods/forgiving-void.pw.toml"
+hash = "86929813cbf28993d0c08583ecb3999cb9fd70b7cb83624bed58bf42c099c7e2"
+metafile = true
+
+[[files]]
 file = "mods/frog-petting.pw.toml"
 hash = "4063f7d36849c040bbb797a65819690273d247c61e662772393653ce6615ed81"
 metafile = true
@@ -281,6 +316,11 @@ hash = "5ced7018dfc37d708c019789aee53cfc54c4a9b31139557871627176182caf93"
 metafile = true
 
 [[files]]
+file = "mods/immersivethunder.pw.toml"
+hash = "6f6291b02277ebfb6357c8f2c486b3fa4e758f5877357941c4407707a19ceef2"
+metafile = true
+
+[[files]]
 file = "mods/incendium.pw.toml"
 hash = "05bedf66c1081d32e21bfd72b11b218a56090461ebd7c9ffd311a81fbb1bfde6"
 metafile = true
@@ -288,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+metafile = true
+
+[[files]]
+file = "mods/industrialreborn.pw.toml"
+hash = "17fd03f55a3edd12056bbd28ef3469385532274f878908ef0707248652ec8b52"
 metafile = true
 
 [[files]]
@@ -371,6 +416,11 @@ hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
 metafile = true
 
 [[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "4c1fed6a8d4681c1e00d93786ec775bede5a77317bcf70df92cee9908d8d6891"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "00e0b1c8ea87947a02358597a358fc24e542086ad8cd03b885e51a71fe189b66"
 metafile = true
@@ -398,6 +448,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "7c647f3090c57732c32306de0a080ea190ec6562af5dbc2be3e7a9d4cadc8b7c"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "20b013f809a352f9b54f5c9e54ac39296b8f33d701120c6ea6f303f60a332785"
 metafile = true
 
 [[files]]
@@ -511,6 +566,11 @@ hash = "18ee61062b3f43fd026ee620bb2de6073de791132c5067d262bd424628bed4a5"
 metafile = true
 
 [[files]]
+file = "mods/stellarity.pw.toml"
+hash = "51402aa3fdf2e02f1492f1386bcbb4c458add770708a4df0e939b8b7a981cf5b"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "f17a3b340c9e1535dce9a81a2f6d4a069dfd3defdcbbc6eb005bb6494a900c02"
 metafile = true
@@ -566,6 +626,16 @@ hash = "9551dd0b80f44fd212a0ce14d9c3ffa2c1775468f2b4c94f891385d4806c783d"
 metafile = true
 
 [[files]]
+file = "mods/village-bell-recipe.pw.toml"
+hash = "c7515431da75bbfa850e66777370d6c9ebdecae45267eee99482c6c7849e39e0"
+metafile = true
+
+[[files]]
+file = "mods/villager-type-changer.pw.toml"
+hash = "b6b936dc08100757583eed9d0a072072472e3bb9ba50ad8405ba08cf218d1325"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "d5fa0e898cb2233b7928c1b6109d041e3f0a507bdbdca6aefabbb4462044d9c6"
 metafile = true
@@ -578,6 +648,11 @@ metafile = true
 [[files]]
 file = "mods/wearthat.pw.toml"
 hash = "3444df423ca287ea5b4be65d8696454ae410e030e918174d7102c22c9f29d25b"
+metafile = true
+
+[[files]]
+file = "mods/wilder-wild.pw.toml"
+hash = "c0b22a2c38d6fd404a79f1be91f8bbad98f75698eddfaafeb79c9eae810db9d4"
 metafile = true
 
 [[files]]
