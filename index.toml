@@ -161,11 +161,6 @@ hash = "16aa9af176b60347a96916acb40e2b2d98c6f9bd4df2dd256e4605772499f59f"
 metafile = true
 
 [[files]]
-file = "mods/do-a-barrel-roll.pw.toml"
-hash = "76e669f772f419df7a3e0ce38d368247a9cdba87080e5dfd9e090bcce6a77b40"
-metafile = true
-
-[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "d8ec9a504860a4cac64cc35bb7a4d18ff29ed0ac0de72072ad7229cb0af3e561"
 metafile = true
