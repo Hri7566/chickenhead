@@ -61,6 +61,11 @@ hash = "36eff4e6316ffeb02187083c7d9b56ea81e1c12040bd232e8d45c3f72f4b2e1e"
 metafile = true
 
 [[files]]
+file = "mods/automatic-potato.pw.toml"
+hash = "cab9405705d1bbd2d6afa15e330fbe7c4e71a7b7220148ec7ad026fa15de0550"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "a8b7f0fe1113d6066379b15a4260be882747cc806cdc3c0b437fac81d754bce6"
 metafile = true
@@ -168,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
+metafile = true
+
+[[files]]
+file = "mods/cooldown-coordinator.pw.toml"
+hash = "153e28b28834139b52a3041f91d913ab9c60eb34d067ec6d0dcc59737c39bbd2"
 metafile = true
 
 [[files]]
@@ -406,6 +416,11 @@ hash = "037f6b72bde7b586901f261820197efb52a369cdad3557eeaaa7a3f8e9c19799"
 metafile = true
 
 [[files]]
+file = "mods/large-fluid-tank.pw.toml"
+hash = "420501ffea22fc38b89a1a77af54ffc7c54e897c5f5072ffa4b30e0f25a4abff"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "2b896abd2e24cc4d2e62c2932df9968b89e95c4127a552a3523ad3406beaa395"
 metafile = true
@@ -501,6 +516,11 @@ hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
 metafile = true
 
 [[files]]
+file = "mods/omnihopper.pw.toml"
+hash = "472305938a6bc649d18966d937bb6810b443eba85491b2bebf5017f5ad016d86"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "7c647f3090c57732c32306de0a080ea190ec6562af5dbc2be3e7a9d4cadc8b7c"
 metafile = true
@@ -576,6 +596,11 @@ hash = "3227928d92806847f3782a9d44bae63a22f00268ead7a91ab980352dc8bbf1d7"
 metafile = true
 
 [[files]]
+file = "mods/scalable-cats-force.pw.toml"
+hash = "e2f5d3ecaf3e192ef9af84a5d1caa8713965584596d98e5762e573d2d022422c"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "09bf4b5fc20ed7900078f886b5a73beb0d4a459ca71b1df1bff7da71efd844a2"
 metafile = true
@@ -588,6 +613,16 @@ metafile = true
 [[files]]
 file = "mods/silk.pw.toml"
 hash = "9376c1e206113df72defcc26ac46ba7e7f4bd6fa7af1840babe20ef5b3b05b4e"
+metafile = true
+
+[[files]]
+file = "mods/simple-copper-pipes.pw.toml"
+hash = "b85ac8438eb80bfee903afd2b285c9da69491ba17b8761f63a23a31b15a11975"
+metafile = true
+
+[[files]]
+file = "mods/slabs-expanded.pw.toml"
+hash = "396c2aa3218a3c4683691201067c03877a25aaa1e552035a91c096d2a6a23ca3"
 metafile = true
 
 [[files]]

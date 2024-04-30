@@ -1,0 +1,13 @@
+name = "Simple Copper Pipes"
+filename = "SimpleCopperPipes-1.20.4-1.16.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9r4ZkgSN/versions/aNc9MS3Y/SimpleCopperPipes-1.20.4-1.16.1.jar"
+hash-format = "sha1"
+hash = "86c43a58e5473ee63dff2a01fcc791bea9147ea6"
+
+[update]
+[update.modrinth]
+mod-id = "9r4ZkgSN"
+version = "aNc9MS3Y"

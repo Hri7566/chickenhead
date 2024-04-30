@@ -1,0 +1,13 @@
+name = "Large Fluid Tank"
+filename = "largefluidtank-fabric-20.12.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uMlJQMHT/versions/odo2VF87/largefluidtank-fabric-20.12.2.jar"
+hash-format = "sha1"
+hash = "2b4d08d2ced69a8199e625f0a4296a10611c0210"
+
+[update]
+[update.modrinth]
+mod-id = "uMlJQMHT"
+version = "odo2VF87"
