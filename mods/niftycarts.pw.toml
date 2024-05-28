@@ -1,13 +1,13 @@
 name = "NiftyCarts"
-filename = "niftycarts-3.3.0+1.20.4.jar"
+filename = "niftycarts-3.3.1+1.20.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/CXd6g9xp/versions/stnZrgIW/niftycarts-3.3.0%2B1.20.4.jar"
+url = "https://cdn.modrinth.com/data/CXd6g9xp/versions/Y1j40ssQ/niftycarts-3.3.1%2B1.20.4.jar"
 hash-format = "sha1"
-hash = "b2670e57f81cc256dfdba819c76ab390ba285ef6"
+hash = "46c061d846ca8cbe2d7df21b1bcdc593527c9fac"
 
 [update]
 [update.modrinth]
 mod-id = "CXd6g9xp"
-version = "stnZrgIW"
+version = "Y1j40ssQ"

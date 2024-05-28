@@ -1,13 +1,13 @@
 name = "Star Wars Planets Ad Astra! [Forge/Fabric]"
-filename = "swplanets-fabric-1.20.4-2.3.9.jar"
+filename = "swplanets-fabric-1.20.4-2.4.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "37487141bc44f4b983d933bef1d0d5c090fc7ca2"
+hash = "cf19e215fe73f36e70b25c3f5c3cac34ca120d94"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5213355
+file-id = 5318087
 project-id = 725821
