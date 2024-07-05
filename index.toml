@@ -211,6 +211,11 @@ hash = "7d7f432f62eba0e9734a1ac7e4f2926536e34002709eac8a3086bf4f6694a10b"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "c778fc74d505983f1816b8bb82d61cbfd1eecfff22de7b9c349b9ac27f11e35a"
+metafile = true
+
+[[files]]
 file = "mods/doors-closed.pw.toml"
 hash = "0474f5376819ca3bf720c064c614b479ce04702be024b7d773587b28a1b2addb"
 metafile = true
