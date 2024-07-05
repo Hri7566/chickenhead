@@ -3,11 +3,11 @@ filename = "Catppuccin Mocha Blue.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/S3nUv9ws/versions/besqdorx/Catppuccin%20Mocha%20Blue.zip"
+url = "https://cdn.modrinth.com/data/S3nUv9ws/versions/uzrgtcJO/Catppuccin%20Mocha%20Blue.zip"
 hash-format = "sha1"
-hash = "969297dcf5ecb24e4cd1ab4b4e048a8b3e37e47c"
+hash = "c081f15470d3cfa605a9e7fa664242c7c99f7bcb"
 
 [update]
 [update.modrinth]
 mod-id = "S3nUv9ws"
-version = "besqdorx"
+version = "uzrgtcJO"

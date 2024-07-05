@@ -1,13 +1,13 @@
 name = "Sonic Boom"
-filename = "sonicboom-2.5.jar"
+filename = "sonicboom-2.7.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/aQwGpNdk/versions/infaq2gn/sonicboom-2.5.jar"
+url = "https://cdn.modrinth.com/data/aQwGpNdk/versions/uOF8NnYU/sonicboom-2.7.jar"
 hash-format = "sha1"
-hash = "374f3b5af8d391e4e86c43e8510f97d27d3c34b7"
+hash = "0a3033c3ece13632c5c68b3d8924a544f8590172"
 
 [update]
 [update.modrinth]
 mod-id = "aQwGpNdk"
-version = "infaq2gn"
+version = "uOF8NnYU"
